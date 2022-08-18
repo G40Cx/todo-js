@@ -1,6 +1,6 @@
-# Webpack Starter
+# To do List
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Esto es un proyecto que sirvio como practica para comprender como trabajar con clases, encapsulamiento de codigo para mejorar su seguridad, exportacion de modulos con webpack y creacion de hash para proteger los mains assets de la aplicacion.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
